@@ -1,4 +1,4 @@
-Group.1	: subject, 30 person, from 1 to 30
+Group.1	: subject, 30 person, from 1 to 30 
 Group.2	: activity, 1 WALKING, 2 WALKING_UPSTAIRS, 3 WALKING_DOWNSTAIRS, 4 SITTING, 5 STANDING, 6 LAYING
 tBodyAcc-mean()-X	: the mean of the feature for each subject and each activity, for detail feature infor , Pls refer to features_info.txt
 tBodyAcc-mean()-Y	: the mean of the feature for each subject and each activity, for detail feature infor , Pls refer to features_info.txt
